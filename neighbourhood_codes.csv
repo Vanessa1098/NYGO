@@ -1,0 +1,130 @@
+,city,code,Borough_code,name
+1,Alphabet City/Loisaida,zfn15565632,g60763,New_York_City
+2,Battery Park City,zfn15565633,g60763,New_York_City
+3,Bowery,zfn7212969,g60763,New_York_City
+4,Carnegie Hill,zfn15565634,g60763,New_York_City
+5,Central Harlem,zfn15565635,g60763,New_York_City
+6,Central Park,zfn15565636,g60763,New_York_City
+7,Chelsea,zfn7102343,g60763,New_York_City
+8,Chinatown,zfn7102344,g60763,New_York_City
+9,City Hall Area,zfn15565637,g60763,New_York_City
+10,Civic Center,zfn7212976,g60763,New_York_City
+11,Downtown Manhattan (Downtown),zfn15565677,g60763,New_York_City
+12,East Harlem,zfn7212975,g60763,New_York_City
+13,East Village,zfn7102345,g60763,New_York_City
+14,Ellis Island,zfn15565638,g60763,New_York_City
+15,Financial District,zfn7102346,g60763,New_York_City
+16,Flatiron District,zfn7102347,g60763,New_York_City
+17,Flower District,zfn15565639,g60763,New_York_City
+18,Fort George,zfn15565640,g60763,New_York_City
+19,Garment District,zfn7212957,g60763,New_York_City
+20,Governors Island,zfn15565641,g60763,New_York_City
+21,Gramercy Park,zfn7212980,g60763,New_York_City
+22,Gramercy-Flatiron,zfn15565642,g60763,New_York_City
+23,Greenwich Village,zfn7102348,g60763,New_York_City
+24,Hamilton Heights,zfn15565643,g60763,New_York_City
+25,Harlem,zfn7102349,g60763,New_York_City
+26,Hell's Kitchen,zfn7102350,g60763,New_York_City
+27,Hudson Heights,zfn15565644,g60763,New_York_City
+28,Hudson Square,zfn7212970,g60763,New_York_City
+29,Hudson Yards,zfn15565645,g60763,New_York_City
+30,Inwood,zfn15565646,g60763,New_York_City
+31,Kips Bay,zfn7212974,g60763,New_York_City
+32,Koreatown,zfn15565647,g60763,New_York_City
+33,Lenox Hill,zfn15565648,g60763,New_York_City
+34,Liberty Island,"zfn13208867,zfn15565649",g60763,New_York_City
+35,Liberty State Park,zfn15565650,g60763,New_York_City
+36,Lincoln Square,zfn15565651,g60763,New_York_City
+37,Little Italy,zfn7212544,g60763,New_York_City
+38,Lower East Side,zfn7102351,g60763,New_York_City
+39,Madison Square,zfn15565652,g60763,New_York_City
+40,Manhattan,zfn29504,g60763,New_York_City
+41,Manhattan Valley,zfn15565653,g60763,New_York_City
+42,Manhattanville,zfn15565654,g60763,New_York_City
+43,Marble Hill,zfn15565655,g60763,New_York_City
+44,Meatpacking District,zfn7212958,g60763,New_York_City
+45,Midtown,zfn7102352,g60763,New_York_City
+46,Midtown East,zfn15565656,g60763,New_York_City
+47,Midtown West,zfn15565657,g60763,New_York_City
+48,Morningside Heights,zfn7212959,g60763,New_York_City
+49,Murray Hill,zfn7212964,g60763,New_York_City
+50,Noho,zfn7212966,g60763,New_York_City
+51,Nolita,zfn7212662,g60763,New_York_City
+52,NoMad,zfn7212972,g60763,New_York_City
+53,Peter Cooper Village,zfn15565658,g60763,New_York_City
+54,Randalls and Wards Islands,zfn15565659,g60763,New_York_City
+55,Rockefeller Center,zfn15565660,g60763,New_York_City
+56,Roosevelt Island,zfn15565661,g60763,New_York_City
+57,Rose Hill,zfn15565662,g60763,New_York_City
+58,SoHo,zfn7102353,g60763,New_York_City
+59,Strivers' Row,zfn15565663,g60763,New_York_City
+60,Stuyvesant Square,zfn15565664,g60763,New_York_City
+61,Stuyvesant Town,zfn15565665,g60763,New_York_City
+62,Sugar Hill,zfn15565666,g60763,New_York_City
+63,Sutton Place,zfn15565667,g60763,New_York_City
+64,Tenderloin,zfn15565668,g60763,New_York_City
+65,Theater District,zfn15565669,g60763,New_York_City
+66,Times Square,zfn15565670,g60763,New_York_City
+67,Times Square / Theater District,zfn7102354,g60763,New_York_City
+68,TriBeCa,zfn7102355,g60763,New_York_City
+69,Tudor City,zfn15565671,g60763,New_York_City
+70,Turtle Bay,zfn15565672,g60763,New_York_City
+71,Two Bridges,zfn7212979,g60763,New_York_City
+72,Union Square,zfn7212968,g60763,New_York_City
+73,Upper East Side,zfn7102356,g60763,New_York_City
+74,Upper Manhattan (Uptown),zfn15565675,g60763,New_York_City
+75,Upper West Side,zfn7102357,g60763,New_York_City
+76,Washington Heights,zfn7212982,g60763,New_York_City
+77,West Harlem,zfn15565673,g60763,New_York_City
+78,West Village,zfn7212630,g60763,New_York_City
+79,Yorkville,zfn15565674,g60763,New_York_City
+80,Williamsburg,zfn20361241,g60827,Brooklyn
+81,Sheepshead Bay,zfn20361276,g60827,Brooklyn
+82,Bath Beach,zfn20361251,g60827,Brooklyn
+83,Bayridge,zfn20361272,g60827,Brooklyn
+84,Bedford-Stuyvesant    ,zfn20361265,g60827,Brooklyn
+85,Bensonhurst,zfn20361248,g60827,Brooklyn
+86,Bergen Beach,zfn20361242,g60827,Brooklyn
+87,Boerum Hill,zfn20361277,g60827,Brooklyn
+88,Borough Park,zfn20361271,g60827,Brooklyn
+89,Brighton Beach,zfn20361244,g60827,Brooklyn
+90,Brooklyn Heights,zfn20361280,g60827,Brooklyn
+91,Brownsville,zfn20361261,g60827,Brooklyn
+92,Bushwick,zfn20361259,g60827,Brooklyn
+93,Canarsie,zfn20361278,g60827,Brooklyn
+94,Carroll Gardens,zfn20361246,g60827,Brooklyn
+95,Clinton Hill,zfn20361254,g60827,Brooklyn
+96,Cobble Hill,zfn20361252,g60827,Brooklyn
+97,Columbia Street Waterfront  ,zfn20361269,g60827,Brooklyn
+98,Coney Island            ,zfn20361268,g60827,Brooklyn
+99,Crown Heights,zfn20361258,g60827,Brooklyn
+100,Cypress Hills ,zfn20361238,g60827,Brooklyn
+101,Downtown Brooklyn,zfn20361266,g60827,Brooklyn
+102,Dyker Heights,zfn20361236,g60827,Brooklyn
+103,East Flatbush,zfn20361279,g60827,Brooklyn
+104,East New York,zfn20361273,g60827,Brooklyn
+105,Flatbush,zfn20361243,g60827,Brooklyn
+106,Flatlands,zfn20361275,g60827,Brooklyn
+107,Floyd Bennett,zfn20361245,g60827,Brooklyn
+108,Fort Greene,zfn20344483,g60827,Brooklyn
+109,Fort Hamilton,zfn20361267,g60827,Brooklyn
+110,Gerritsen Beach,zfn20361264,g60827,Brooklyn
+111,Gowanus,zfn20361283,g60827,Brooklyn
+112,Gowanus Heights,zfn20361260,g60827,Brooklyn
+113,Gravesend,zfn20361281,g60827,Brooklyn
+114,Greenpoint,zfn20361235,g60827,Brooklyn
+115,Kensington,zfn20361240,g60827,Brooklyn
+116,Manhattan Beach,zfn20361253,g60827,Brooklyn
+117,Marina Park,zfn20361249,g60827,Brooklyn
+118,Midwood,zfn20361274,g60827,Brooklyn
+119,Mill Basin,zfn20361255,g60827,Brooklyn
+120,Park Slope,zfn20361282,g60827,Brooklyn
+121,Prospect Heights,zfn20361256,g60827,Brooklyn
+122,Prospect Park,zfn20361284,g60827,Brooklyn
+123,Prospect-Lefferts Gardens,zfn20361270,g60827,Brooklyn
+124,Red Hook,zfn20361239,g60827,Brooklyn
+125,Ridgewood,zfn20361263,g60827,Brooklyn
+126,South Slope,zfn20344392,g60827,Brooklyn
+127,Sunset Park,zfn20361257,g60827,Brooklyn
+128,Vinegar Hill,zfn20361250,g60827,Brooklyn
+129,Windsor Terrace,zfn20361262,g60827,Brooklyn
