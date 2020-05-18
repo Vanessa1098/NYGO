@@ -12,7 +12,7 @@ library(tigris)
 library(XML)
 library(wordcloud2)
 
-ggmap::register_google(key = 'AIzaSyCoRzNLnpLcI2X39tNBJuxRDqhzVV7_qpM')
+ggmap::register_google(key = YOUR_KEY)
 neighbourhoods <- read.csv("neighbourhood_codes.csv")
 
 neighbourhood_options <- neighbourhoods$city
